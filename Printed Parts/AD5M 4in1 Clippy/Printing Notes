@@ -1,0 +1,12 @@
+I printed my parts in PETG
+
+The main part (AD5M Clippy for 4in1.stl) I printed upright, with supports.  I had printed earlier versions upsidedown but I wanted to preserve 
+the clean printing of the area where the 4in1 and the sleeve fit as the intent are for these to be alighned but able to slide up and down.
+The skinny rubberband is tied off at the 2 loops that are there to hold the sleeve and the 4in1 in place.  
+This functions as a small buffer when loading filament from the Forked Chameleons to the AD5M toolhead.
+
+I printed the FF_AD5m 3d Chameleon Auto Clippy Blade.stl at 98.5% scaling - at 100% the part was a little snug when I tried it.  
+It needs to be free and not binding in operation.
+
+The 2 clips on the back of the Clippy snapped off when I was sliding the assembly on to the toolhead.  That is why I
+used the medium rubberband to insure the Clippy stays in place.  It is working well and makes for easy removal if needed.
