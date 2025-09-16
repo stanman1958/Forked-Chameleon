@@ -1,5 +1,6 @@
 # Forked-Chameleon
-This is the collection of parts, BOMs, code, etc for my fork of the 3DChameleon, specifically for the FlashForge AD5M
+This is the collection of parts, BOMs, code, etc for my fork of the 3DChameleon, specifically for the FlashForge AD5M.
+
 You are free to copy, modify, etc with attribution.
 
 I started this after trying to get the original 3DChameleon to work.  I am sure that it would have worked, with a lot of tuning and adjustments to 
