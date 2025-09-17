@@ -1,2 +1,23 @@
-This is the as built BOM for a single, 2-filament Chameleon.  The standard assembly takes 2 of these to cover 4 filaments.
+This is the as built BOM for a single, 2-filament Chameleon Mechanical Assembly.  
+The standard Forked Chameleon takes 2 of these to cover 4 filaments.
 
+QTY    Description                          Source/PN
+1      Printed Base 
+1      Printed Top
+1      Printed B Part
+1      Printed C Part
+1      Printed Bearing CAM
+4      Printed Bearing Carriers
+4      Conical Springs
+1      Printed Servo Adapter
+8      M3 x 3mm Heatset Inserts
+1      M2 x mm Screw 
+       (for securing CAM to Servo)
+8      M3 x 20MM SHCS
+1      25Kg Servo
+1      Stepper Motor
+1      Bearing for CAM
+2      Bearings for Extruder
+1      Extruder Gear
+AR     PTFE Tubing for Filament Output (Optional for Filament Input)
+1      PTFE Cutting Guide
